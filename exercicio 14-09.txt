@@ -1,0 +1,20 @@
+Excluir a tabela de alunos atual
+Recriar uma nova tabela de alunos com o sequelize
+
+
+
+Criar uma página web para cadastro de alunos
+
+Campos:
+
+Nome:
+Email:
+Idade:
+Genero: select <option> // Abre uma caixa de listagem 
+Telefone:
+Estudante: Sim / Não   rádio button
+
+Botão Adicionar
+
+Pegue através do seu express conexao.js
+Grave os dados do formulário no banco de dados
