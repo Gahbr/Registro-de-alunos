@@ -18,13 +18,18 @@
 ## 🎨 Design
 ![Screenshot 2022-09-16 at 18-04-54 Registro de alunos](https://user-images.githubusercontent.com/80289718/190746921-91bcc9e0-fa9a-4b6d-a075-36b4dd8732ce.png)
 
-## Rotas
+## 🛣 Rotas
+
 ### GET / 
   Página principal
 ### GET /alunos
   Listagem de todos os alunos cadastrados no banco de dados
 ### POST / 
 Insere usuario
+
+## 👩‍💻Instalação
+ ### ```npm  install ```
+ ### Rode o projeto com o script : ``` npm start```
 
 ## 🦸 Autor
 
