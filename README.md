@@ -1,7 +1,7 @@
 # 👨‍🎓 Registro de alunos 
 
 ## 💻 Sobre o projeto
- Projeto feito em node de registro de alunos em NodeJs, Sequelize, Mysql, Express.js.
+ Este Projeto é um exercício proposto durante o curso da GAMA Academy Dev for tech.  Ele foi construído em nodeJs para fazer o registro de alunos.
 
 ## 🛠 Tecnologias utilizadas
 
